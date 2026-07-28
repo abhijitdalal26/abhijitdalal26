@@ -38,10 +38,3 @@ More detail (write-ups, architecture diagrams, training curves) on the [portfoli
 ### Stack
 
 `Python` `PyTorch` `TypeScript` `Next.js` `React` `Kotlin` `Android` `PostgreSQL` `Jupyter`
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijitdalal26&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true" alt="Abhijit's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitdalal26&layout=compact&theme=dark&hide_border=true&hide_title=true" alt="Abhijit's most used languages" height="165" />
-</p>
