@@ -8,7 +8,8 @@
   <a href="https://abhijitdalal.vercel.app">Portfolio</a> ·
   <a href="https://abhijitdalal.vercel.app/blog">Blog</a> ·
   <a href="https://x.com/abhijitdalal_">X</a> ·
-  <a href="https://www.instagram.com/abhijitdalal.26/">Instagram</a>
+  <a href="https://www.instagram.com/abhijitdalal.26/">Instagram</a> ·
+  <a href="https://www.kaggle.com/abhijitdalal26">Kaggle</a>
 </p>
 
 ---
