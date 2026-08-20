@@ -22,13 +22,13 @@ Right now I'm building **[Skrolla](https://skrolla.vercel.app)**, a book discove
 
 ### What I've been building
 
+- 📚 **[Skrolla](https://skrolla.vercel.app)**: a TikTok-style feed for discovering your next book
 - 🧠 **[Harry Potter GPT](https://abhijitdalal.vercel.app/projects/harry-potter-gpt)**: a GPT built from scratch, trained to talk Harry Potter
 - 🏎️ **[Autonomous Racing (RL)](https://abhijitdalal.vercel.app/projects/autonomous-racing-using-rl)**: teaching a car to drive itself with PPO, in Unity ML-Agents
 - 🎬 **[Movie Vector Galaxy](https://abhijitdalal.vercel.app/projects/movie-vector-galaxy)**: exploring movies as a 3D universe with sentence embeddings + UMAP
 - 🌾 **[Smart Agriculture Advisory System](https://abhijitdalal.vercel.app/projects/smart-agriculture-advisory-system)**: Raspberry Pi IoT + XGBoost, advising farmers over Telegram
 - 🐾 **[PawVision](https://abhijitdalal.vercel.app/projects/pawvision)**: a cat-vs-dog classifier, on Android
 - 🔒 **[MCPAudit](https://abhijitdalal.vercel.app/projects/mcp-audit)**: a security auditor for MCP server configs
-- 📚 **[Skrolla](https://skrolla.vercel.app)**: a TikTok-style feed for discovering your next book
 
 More detail (write-ups, architecture diagrams, training curves) on the [portfolio](https://abhijitdalal.vercel.app/projects).
 
