@@ -1,41 +1,49 @@
-<h1 align="center">Hi, I'm Abhijit 👋</h1>
+this si good <h1 align="center">Hi, I'm Abhijit 👋</h1>
 
 <p align="center">
-  B.Tech student at VJTI, Mumbai. Pulled into embeddings, transformers, and reinforcement learning, and never really stopped.
+  <a href="https://abhijitdalal.vercel.app">
+    <img src="https://api.iconify.design/lucide:globe.svg?color=%23FFFFFF" width="28" height="28" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abhijitdalal/">
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" width="28" height="28" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/abhijitdalal_">
+    <img src="https://api.iconify.design/simple-icons:x.svg?color=%23FFFFFF" width="28" height="28" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/abhijitdalal.26/">
+    <img src="https://api.iconify.design/simple-icons:instagram.svg?color=%23E4405F" width="28" height="28" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/abhijitdalal26">
+    <img src="https://api.iconify.design/simple-icons:kaggle.svg?color=%2320BEFF" width="28" height="28" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://abhijitdalal.vercel.app">Portfolio</a> ·
-  <a href="https://abhijitdalal.vercel.app/blog">Blog</a> ·
-  <a href="https://x.com/abhijitdalal_">X</a> ·
-  <a href="https://www.instagram.com/abhijitdalal.26/">Instagram</a> ·
-  <a href="https://www.kaggle.com/abhijitdalal26">Kaggle</a>
+### About
+
+I enjoy turning ideas into working systems.
+
+Interested in **machine learning, LLMs, embeddings, and reinforcement learning**.
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stable--Baselines3-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unity%20ML--Agents-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/TRL-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sentence--Transformers-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloudflare%20R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
-
----
-
-### About me
-
-I like taking an idea apart until I understand it well enough to rebuild myself. That's usually what turns into a project. It's slower than just reading about it, but it's the only way I actually trust that I understand something.
-
-Right now I'm building **[Skrolla](https://skrolla.vercel.app)**, a book discovery app that scrolls like a feed but recommends with embeddings instead of guesswork.
-
-### What I've been building
-
-- 📚 **[Skrolla](https://skrolla.vercel.app)**: a TikTok-style feed for discovering your next book
-- 🧠 **[Harry Potter GPT](https://abhijitdalal.vercel.app/projects/harry-potter-gpt)**: a GPT built from scratch, trained to talk Harry Potter
-- 🏎️ **[Autonomous Racing (RL)](https://abhijitdalal.vercel.app/projects/autonomous-racing-using-rl)**: teaching a car to drive itself with PPO, in Unity ML-Agents
-- 🎬 **[Movie Vector Galaxy](https://abhijitdalal.vercel.app/projects/movie-vector-galaxy)**: exploring movies as a 3D universe with sentence embeddings + UMAP
-- 🌾 **[Smart Agriculture Advisory System](https://abhijitdalal.vercel.app/projects/smart-agriculture-advisory-system)**: Raspberry Pi IoT + XGBoost, advising farmers over Telegram
-- 🐾 **[PawVision](https://abhijitdalal.vercel.app/projects/pawvision)**: a cat-vs-dog classifier, on Android
-- 🔒 **[MCPAudit](https://abhijitdalal.vercel.app/projects/mcp-audit)**: a security auditor for MCP server configs
-
-More detail (write-ups, architecture diagrams, training curves) on the [portfolio](https://abhijitdalal.vercel.app/projects).
-
-### Areas
-
-`LLMs` `NLP` `Reinforcement Learning` `Computer Vision` `Transformers` `Deep Learning` `Data Science` `App Development`
-
-### Stack
-
-`Python` `PyTorch` `TypeScript` `Next.js` `React` `Kotlin` `Android` `PostgreSQL` `Jupyter`
