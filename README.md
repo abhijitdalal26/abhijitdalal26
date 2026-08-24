@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/abhijitdalal/">
     <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" width="28" height="28" />
   </a>&nbsp;&nbsp;
-  <a href="https://x.com/abhijitdalal_">
-    <img src="https://api.iconify.design/simple-icons:x.svg?color=%23FFFFFF" width="28" height="28" />
-  </a>&nbsp;&nbsp;
   <a href="https://x.com/abhijitdalal26">
     <img src="https://api.iconify.design/simple-icons:x.svg?color=%23FFFFFF" width="28" height="28" />
   </a>&nbsp;&nbsp;
