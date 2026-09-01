@@ -37,5 +37,6 @@ Interested in **machine learning, LLMs, embeddings, and reinforcement learning**
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Stable--Baselines3-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Unity%20ML--Agents-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
 </p>
+</content>
