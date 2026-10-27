@@ -2,16 +2,24 @@
 
 <p align="center">
   <a href="https://abhijitdalal.vercel.app">
-    <img src="https://api.iconify.design/lucide:globe.svg?color=%23FFFFFF" width="28" height="28" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/globe.svg?color=%23FFFFFF">
+      <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/globe.svg?color=%23111111">
+      <img src="https://api.iconify.design/lucide/globe.svg?color=%23111111" width="28" height="28" />
+    </picture>
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/abhijitdalal/">
-    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" width="28" height="28" />
+    <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2" width="28" height="28" />
   </a>&nbsp;&nbsp;
   <a href="https://x.com/abhijitdalal26">
-    <img src="https://api.iconify.design/simple-icons:x.svg?color=%23FFFFFF" width="28" height="28" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/x.svg?color=%23FFFFFF">
+      <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/x.svg?color=%23111111">
+      <img src="https://api.iconify.design/simple-icons/x.svg?color=%23111111" width="28" height="28" />
+    </picture>
   </a>&nbsp;&nbsp;
   <a href="https://www.kaggle.com/abhijitdalal26">
-    <img src="https://api.iconify.design/simple-icons:kaggle.svg?color=%2320BEFF" width="28" height="28" />
+    <img src="https://api.iconify.design/simple-icons/kaggle.svg?color=%2320BEFF" width="28" height="28" />
   </a>
 </p>
 
