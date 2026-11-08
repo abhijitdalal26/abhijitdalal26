@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abhijit 👋</h1>
 
 <p align="center">
-  <a href="https://abhijitdalal.vercel.app">
+  <a href="https://abhijitdalal.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/globe.svg?color=%23FFFFFF">
       <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/globe.svg?color=%23111111">
