@@ -25,7 +25,7 @@
 
 ### About
 
-I enjoy turning ideas into working systems. Currently building [Skrolla](https://abhijitdalal.vercel.app), an Android book/manga discovery app, alongside a CubeSat engineering project and some ML side projects.
+I enjoy turning ideas into working systems. building stuff, alongside a CubeSat engineering project and some ML side projects.
 
 Interested in machine learning, LLMs, embeddings, and reinforcement learning.
 
