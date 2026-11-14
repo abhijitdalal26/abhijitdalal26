@@ -29,10 +29,6 @@ I enjoy turning ideas into working systems. building stuff, alongside a CubeSat 
 
 Interested in machine learning, LLMs, embeddings, and reinforcement learning.
 
-### Projects
-
-- [HacksMedia](https://hacksmedia.vercel.app/) — videos, books, and blogs recommended on Hacker News, in one place.
-
 ### Tech Stack
 
 <table>
